@@ -1,6 +1,6 @@
 # Taufik Hidayat_1019_Tugas_2
 
-A new Flutter project.
+This Repo has change name from 'flutter_apps_one' to 'tugas_flutter_2'
 
 ## Getting Started
 
